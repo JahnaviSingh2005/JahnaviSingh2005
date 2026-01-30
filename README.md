@@ -31,22 +31,14 @@
 
 ## 🎯 About Me
 
-```python
-class JahnaviSingh:
-    def __init__(self):
-        self.name = "Jahnavi Singh"
-        self.role = "B.Tech Student & AI Researcher"
-        self.location = "India 🇮🇳"
-        self.interests = ["Deep Learning", "NLP", "Computer Vision", "RAG Systems"]
-        self.currently_learning = ["Advanced ML", "LLM Fine-tuning", "System Architecture"]
-        self.fun_fact = "I build AI that helps people!"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+👋 **Name:** Jahnavi Singh  
+🎓 **Role:** B.Tech Student & AI Researcher  
+📍 **Location:** India 🇮🇳  
+💡 **Interests:** Deep Learning • NLP • Computer Vision • RAG Systems  
+📚 **Currently Learning:** Advanced ML • LLM Fine-tuning • System Architecture  
+⚡ **Fun Fact:** I build AI that helps people!
 
-me = JahnaviSingh()
-me.say_hi()
-```
+> *Thanks for dropping by! Let's build something amazing together* 🚀
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
